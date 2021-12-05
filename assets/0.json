@@ -1,0 +1,19 @@
+{
+    "name": "MATRIX",
+    "symbol": "AGENT",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "B3aomsZ78zbdr3KU9B9k8ty1FexXHfeeMCAGPW9s1ZbK",
+          "share": 100
+        }
+      ]
+    }
+  }
